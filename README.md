@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Keunwoo Park. I'm a Ph.D. student at KAIST HCI lab.
+I'm intereted in developing novel sensing technologies and haptic devices.
+Please check out my personal homepage, if you are interested in HCI.
+
+- 📫 How to reach me: keunwoo@kaist.ac.kr
+- ⚡ Fun fact: My name is pronounced GNU.
 
 <!--
 **KeunwooPark/KeunwooPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
