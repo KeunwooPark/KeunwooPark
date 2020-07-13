@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Keunwoo Park. I'm a Ph.D. student at KAIST HCI lab.
+My name is Keunwoo Park. I'm a Ph.D. student at [KAIST HCI lab](http://hcil.kaist.ac.kr).
 I'm intereted in developing novel sensing technologies and haptic devices.
 Please check out my personal homepage, if you are interested in HCI.
 
