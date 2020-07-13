@@ -5,7 +5,8 @@ I'm intereted in developing novel sensing technologies and haptic devices.
 Please check out my personal homepage, if you are interested in HCI.
 
 - 📫 How to reach me: keunwoo@kaist.ac.kr
-- ⚡ Fun fact: My name is pronounced GNU.
+- 🏠 Homepage: [kwpark.io](http://kwpark.io)
+- ⚡ Fun fact: My name is pronounced as GNU.
 
 <!--
 **KeunwooPark/KeunwooPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
