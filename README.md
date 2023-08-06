@@ -1,10 +1,8 @@
 ### Hello! 👋
 
-My name is Keunwoo Park. I'm a Ph.D. student at [KAIST HCI lab](http://hcil.kaist.ac.kr).
-I'm intereted in developing novel sensing technologies and haptic devices.
-Please check out my personal homepage, if you are interested in HCI.
+My name is Keunwoo Park. I lead the software product team at Ordinary Magic Corp., a company based in South Korea, making toys for infants and toddlers under the [Peekaby](https://peekaby.com) brand. Our team builds software products to deliver content about toys and intelligent tools to improve the playing experience.
 
-- 📫 How to reach me: keunwoo@kaist.ac.kr
+- 📫 How to reach me: keunwoopark.524@gmail.com
 - 🏠 Homepage: [kwpark.io](http://kwpark.io)
 - ⚡ Fun fact: My name is pronounced as GNU.
 
