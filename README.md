@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Keunwoo Park. I lead the software product team at Ordinary Magic Corp., a company based in South Korea, making toys for infants and toddlers under the [Peekaby](https://peekaby.com) brand. Our team builds software products to deliver content about toys and intelligent tools to improve the playing experience.
+My name is Keunwoo Park. I am the chief product officer at Ordinary Magic Corp., a company based in South Korea, making toys for infants and toddlers under the [Peekaby](https://peekaby.com) brand. Our team builds software products to deliver content about toys and intelligent tools to improve the playing experience.
 
 - 📫 How to reach me: keunwoopark.524@gmail.com
 - 🏠 Homepage: [kwpark.io](http://kwpark.io)
