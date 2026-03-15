@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Keunwoo Park. I make products.
+My name is Keunwoo Park. I'm actively building [Serok](https://www.serok.social), a place to capture thoughts a book sparks, before they fade.
 
 - 📫 How to reach me: keunwoopark.524@gmail.com
 - 🏠 Homepage: [kwpark.io](http://kwpark.io)
